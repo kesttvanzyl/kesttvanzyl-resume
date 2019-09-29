@@ -1,6 +1,5 @@
 ![Kestt Picture](KesttResumePhoto.JPG)
 
-
 # Kestt van Zyl
 
 ## Education:
@@ -54,3 +53,25 @@
 
 ## Work Experience:
 
+#### City of Carlsbad
+
+* Pool Lifeguard from 2015-2016
+* Responsible for the safety of the swimmers
+* Responsible for keeping pool chemicals at correct amount
+* Swim Meets and other event setup 
+
+#### Surfin Fire Surf School
+
+* Surf Instructor for Summer 2019
+* Was a surf instructor for the summer camp, group lessons, and private lessons
+* Taught students how to surf as well as giving them a lesson on surf etiquette
+* Taught students about the ocean and where the swell and waves come from
+* Taught them about ocean safety and how to stay safe while surfing
+
+#### bankINNOVATE
+
+* VP of Technology and Recruitment from 2015-present
+* Specialize is finding the best and most qualified candidates for our clients
+* Focus on banking and FinTech (financial technology)
+* In charge of maintaining and upgrading company website and helping boost web traffic
+* Built the current company website: https://bankinnovate.com/
