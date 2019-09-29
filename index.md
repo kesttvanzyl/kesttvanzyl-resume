@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="341" height="344" src=https://github.com/kesttvanzyl/kesttvanzyl-resume/blob/master/KesttResumePhoto.JPG>
+  <img width="341" height="344" src=KesttResumePhoto.JPG>
 </p>
 
 
