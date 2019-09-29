@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="341" height="344" src=https://user-images.githubusercontent.com/54337592/65827072-577ce580-e243-11e9-810d-2366d4b3ec82.JPG>
+  <img width="341" height="344" src=https://github.com/kesttvanzyl/kesttvanzyl-resume/blob/master/KesttResumePhoto.JPG>
 </p>
 
 
