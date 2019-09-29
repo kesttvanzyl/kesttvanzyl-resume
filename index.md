@@ -74,4 +74,4 @@
 * Specialize is finding the best and most qualified candidates for our clients
 * Focus on banking and FinTech (financial technology)
 * In charge of maintaining and upgrading company website and helping boost web traffic
-* Built the current company website: https://bankinnovate.com/ - automatic!
+* Built the current company website: [bankINNOVATE](https://bankinnovate.com/)
