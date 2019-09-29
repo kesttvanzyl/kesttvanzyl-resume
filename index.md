@@ -1,6 +1,4 @@
-<p align="center">
-  <![Kestt Picture](KesttResumePhoto.JPG)>
-</p>
+![Kestt Picture](KesttResumePhoto.JPG)
 
 
 # Kestt van Zyl
@@ -53,4 +51,6 @@
 * Public Speaking
 * Creative and Artistic
 * Excel in the both the individual and team work environment
+
+## Work Experience:
 
