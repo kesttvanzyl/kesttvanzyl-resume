@@ -16,15 +16,15 @@
 * Currently Attending MiraCosta Community College
 * Majoring in Computer Science
 * In the process of completing an A.A. in Math and Science
-* Expecting to transfer and attend a UC school in the Fall of 2021
+* Expecting to transfer and attend a UC school in the Fall of 2022
 
 ## Skills:
 
 #### Programming Languages:
 
 * Java
-* PHP
-* CSS
+* Basic Experience with CSS
+* HTML
 
 #### Web Development:
 
@@ -75,3 +75,4 @@
 * Focus on banking and FinTech (financial technology)
 * In charge of maintaining and upgrading company website and helping boost web traffic
 * Built the current company website: [bankINNOVATE](https://bankinnovate.com/)
+
