@@ -4,14 +4,9 @@
 
 ## Education:
 
-#### High School:
-
-* Graduated from Carlsbad Seaside Academy in 2018 
-
-#### Current Education:
-
 * Full time MiraCosta Community College (Math, Physics and Computer Science focus)
-* Expecting to transfer and attend a UC school for a degree in Computer Science and/or Software Engineering
+* Expecting to transfer and attend a UC school for a degree in Computer Science and/or Software Engineering 
+* Graduated from Carlsbad Seaside Academy in 2018 
 
 ## Skills:
 
